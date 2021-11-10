@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @innocentexpat
-- 👀 I’m documenting bad experience here about...
-- 🌱 I’m grief about ...
-- 💞️ I’m looking to invite others stories on ...
-- 📫 How to avoid these creepy landlords ...
-
-<!---
-innocentexpat/innocentexpat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m documenting bad experience here about greedy landlords.
+- 🌱 I’m grief about !
+- 💞️ I’m looking to invite others share stories on !
+- 📫 How to avoid these creepy landlords !
